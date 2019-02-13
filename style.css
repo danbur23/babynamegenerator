@@ -1,0 +1,15 @@
+h1{
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: 70px;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+body{
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: lightgray;
+    padding: 135px;
+
+}

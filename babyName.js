@@ -1,0 +1,2 @@
+var boyNameList = ["Davon", "Daniel", "Phillip", "Thomas", "Layton", "Michael", "Andrew", "Ethan", "Jacob", "Christopher", "Christian"];
+var girlNameList = ["Katrina", "Sidney", "Heidy", "Aylin", "Kassandra", "Emma", "Ava", "Olivia", "Isabella", "Sophia", "Mia", "Charlotte", "Amelia"];
